@@ -1,5 +1,3 @@
-
-
 public class P4H_TestFinal {
 
     int x = 10;
