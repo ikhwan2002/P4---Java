@@ -34,5 +34,5 @@ public class P4B_Orang {
         dodo.tertawa();
         }
     }
-    //dido dan dodo
+
 
