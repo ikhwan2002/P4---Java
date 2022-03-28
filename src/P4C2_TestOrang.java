@@ -13,5 +13,6 @@ public class P4C2_TestOrang {
         System.out.println("Nama : " + dodo.nama);
         System.out.println("Umur : " + dodo.umur + " tahun.");
         dodo.tertawa();
+        //dido dan dodo
     }
 }

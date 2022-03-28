@@ -18,3 +18,4 @@ public class P4C1_Orang {
         System.out.println("Ha... Ha...");
     }
 }
+//dido dan dodo
