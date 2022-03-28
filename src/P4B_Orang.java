@@ -1,5 +1,3 @@
-package konsepoop;
-
 public class P4B_Orang {
     String nama;
     int umur;
