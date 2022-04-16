@@ -6,5 +6,6 @@ public class P4N2_TestOrang {
         System.out.println("Nama : " + badu.nama);
         System.out.println("Umur : " + badu.umur + " tahun.");
         badu.tertawa();
+        //TestOrang
     }
 }
