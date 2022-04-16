@@ -19,4 +19,5 @@ public class P4N1_Orang {
             System.out.println("Ha... Ha...");
         }
     }
+    //
 
